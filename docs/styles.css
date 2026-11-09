@@ -44,3 +44,6 @@ a:focus-visible,summary:focus-visible{outline-color:var(--accent)}
 .internship-projects{padding-left:1.25em}
 .internship-projects li+li{margin-top:6px}
 .capstone-screenshot{max-width:647px}
+
+.evidence-labels{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 14px}
+.evidence-labels span{padding:2px 9px;border:1px solid var(--line);border-radius:999px;background:var(--soft);font-size:.78rem;font-weight:600}
